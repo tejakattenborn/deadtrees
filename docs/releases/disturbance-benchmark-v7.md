@@ -1,5 +1,7 @@
 # Disturbance benchmark v7 handoff (DT-1451)
 
+The corrected DTE dataset is documented in the [28 October refresh](disturbance-benchmark-dte-refresh.md). The counts and threshold comparison below describe the earlier snapshot.
+
 This update uses `tmp_residuals_0.25_all_NO_mask_v7_multithr`, evaluation group
 `all`, and the preceding-year OR flight-year (`b+y`) window. DTE is
 `dtbil10_fc_dw_comb_by`; TCD is `tcbil10_by`. Both use the supplied **bilinear,
